@@ -10,3 +10,5 @@ created_at: "2025-7-14"
 + Started + finished sourcing
 + Learned how current ones work, decided to do something different
     + Internet based! This allows everything to be on a web portal
+
+**Total time spent: 1h**
